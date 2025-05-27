@@ -1,4 +1,5 @@
-# ONE_Pandas_Numpy
+# ONE_Python_Numpy
+
 Python: conhecendo a biblioteca Numpy
 
 Módulo do Curso #ONE Oracle Next Education
